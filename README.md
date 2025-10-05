@@ -5,6 +5,8 @@ Our JavaScript College of Scripting app displays a database of apps and tutorial
 
 Video: https://www.youtube.com/watch?v=_wRvEQcMky0
 
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting/CATopalian_JavaScript_College_of_Scripting.html
+
 ---
 
 ![001](src/media/textures/screenshots/CATopalian_JavaScript_College_of_Scripting_001.PNG)
