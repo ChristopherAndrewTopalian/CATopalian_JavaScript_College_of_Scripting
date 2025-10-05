@@ -1,0 +1,129 @@
+/* style001.css */
+
+body
+{
+    background-color: rgb(100, 100, 100);
+    font-family: Arial;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+b
+{
+    font-weight: 700;
+}
+
+hr
+{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    color: rgb(255, 255, 255);
+}
+
+a:link
+{
+    color: rgb(170, 170, 170);
+}
+
+a:hover
+{
+    color: rgb(255, 255, 255);
+}
+
+a:visited
+{
+    color: rgb(170, 170, 170);
+}
+
+button
+{
+    margin: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: rgb(0, 0, 0);
+    font-family: tahoma;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    align-self: flex-start; 
+}
+
+button:hover
+{
+    border-color: rgb(255, 255, 255);
+}
+
+/*-*/
+
+.buttonFilterStyle
+{
+    margin: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: rgb(0, 0, 0);
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.buttonFilterStyle:hover
+{
+    border-color: rgb(255, 255, 255);
+}
+
+.dedicationStyle
+{
+    padding: 2px;
+    font-family: arial;
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
+}
+
+.titleStyle
+{
+    margin: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-family: arial;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
+    overflow-wrap: break-word;
+}
+
+.descriptionStyle
+{
+    padding-left: 12px;
+    padding-right: 12px;
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    font-size: 20px;
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, 1);
+}
+
+/*----*/
+
+/* Dedicated to God the Father */
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025 */
+/* https://github.com/ChristopherTopalian */
+/* https://github.com/ChristopherAndrewTopalian */
+/* https://sites.google.com/view/CollegeOfScripting */
+
