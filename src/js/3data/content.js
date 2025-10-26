@@ -14,6 +14,15 @@ let content = [
     description: "CATopalian_JavaScript_Guitar"
 },
 
+// CATopalian JavaScript Piano
+{
+    name: "CATopalian JavaScript Piano",
+    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Piano/CATopalian_JavaScript_Piano.html",
+    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Piano',
+    textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Piano.PNG',
+    description: "CATopalian_JavaScript_Piano"
+},
+
 // CATopalian_Game_Engine
 {
     name: 'CATopalian_Game_Engine',
@@ -287,6 +296,7 @@ let content = [
     description: "CATopalian_JavaScript_Identity_Generator"
 },
 
+// CATopalian JavaScript Journal
 {
     name: "CATopalian JavaScript Journal",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Journal/CATopalian_JavaScript_Journal.html",
@@ -295,6 +305,7 @@ let content = [
     description: "CATopalian_JavaScript_Journal"
 },
 
+// CATopalian JavaScript Library
 {
     name: "CATopalian JavaScript Library",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Library",
@@ -303,6 +314,7 @@ let content = [
     description: "CATopalian_JavaScript_Library"
 },
 
+// CATopalian JavaScript List Generator
 {
     name: "CATopalian JavaScript List Generator",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_List_Generator/CATopalian_JavaScript_List_Generator.html",
@@ -311,6 +323,7 @@ let content = [
     description: "CATopalian_JavaScript_List_Generator"
 },
 
+// CATopalian JavaScript Math Generator
 {
     name: "CATopalian JavaScript Math Generator",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Math_Generator/CATopalian_JavaScript_Math_Generator.html",
@@ -319,6 +332,7 @@ let content = [
     description: "CATopalian_JavaScript_Math_Generator"
 },
 
+// CATopalian JavaScript Motion Detection
 {
     name: "CATopalian JavaScript Motion Detection",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Motion_Detection/CATopalian_JavaScript_Motion_Detection.html",
@@ -327,6 +341,7 @@ let content = [
     description: "CATopalian_JavaScript_Motion_Detection"
 },
 
+// CATopalian JavaScript Motion Tracking
 {
     name: "CATopalian JavaScript Motion Tracking",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Motion_Tracking/CATopalian_JavaScript_Motion_Tracking.html",
@@ -335,6 +350,7 @@ let content = [
     description: "CATopalian_JavaScript_Motion_Tracking"
 },
 
+// CATopalian JavaScript Note Taker
 {
     name: "CATopalian JavaScript Note Taker",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Note_Taker/CATopalian_JavaScript_Note_Taker.html",
@@ -343,6 +359,7 @@ let content = [
     description: "CATopalian_JavaScript_Note_Taker"
 },
 
+// CATopalian JavaScript Object Oriented Design
 {
     name: "CATopalian JavaScript Object Oriented Design",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Object_Oriented_Design/CATopalian_JavaScript_Object_Oriented_Design.html",
@@ -351,6 +368,7 @@ let content = [
     description: "CATopalian_JavaScript_Object_Oriented_Design"
 },
 
+// CATopalian JavaScript Object Oriented Game Design
 {
     name: "CATopalian JavaScript Object Oriented Game Design",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Object_Oriented_Game_Design/CATopalian_JavaScript_Object_Oriented_Game_Design.html",
@@ -359,20 +377,13 @@ let content = [
     description: "CATopalian_JavaScript_Object_Oriented_Game_Design"
 },
 
+// CATopalian JavaScript Password Generator
 {
     name: "CATopalian JavaScript Password Generator",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Password_Generator/CATopalian_JavaScript_Password_Generator.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Password_Generator',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Password_Generator.PNG',
     description: "CATopalian_JavaScript_Password_Generator"
-},
-
-{
-    name: "CATopalian JavaScript Piano",
-    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Piano/CATopalian_JavaScript_Piano.html",
-    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Piano',
-    textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Piano.PNG',
-    description: "CATopalian_JavaScript_Piano"
 },
 
 {
