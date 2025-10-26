@@ -386,6 +386,7 @@ let content = [
     description: "CATopalian_JavaScript_Password_Generator"
 },
 
+// CATopalian JavaScript Pie Menu
 {
     name: "CATopalian JavaScript Pie Menu",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Pie_Menu/CATopalian_JavaScript_Pie_Menu.html",
@@ -394,6 +395,7 @@ let content = [
     description: "CATopalian_JavaScript_Pie_Menu"
 },
 
+// CATopalian JavaScript Robot AI
 {
     name: "CATopalian JavaScript Robot AI",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Robot_AI/CATopalian_JavaScript_Robot_AI.html",
@@ -402,6 +404,7 @@ let content = [
     description: "CATopalian_JavaScript_Robot_AI"
 },
 
+// CATopalian JavaScript Sun Report
 {
     name: "CATopalian JavaScript Sun Report",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Sun_Report/CATopalian_JavaScript_Sun_Report.html",
@@ -410,6 +413,7 @@ let content = [
     description: "CATopalian_JavaScript_Sun_Report"
 },
 
+// CATopalian JavaScript Teacher
 {
     name: "CATopalian JavaScript Teacher",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Teacher/CATopalian_JavaScript_Teacher.html",
@@ -418,6 +422,7 @@ let content = [
     description: "CATopalian_JavaScript_Teacher"
 },
 
+// CATopalian JavaScript Text Communication Helper
 {
     name: "CATopalian JavaScript Text Communication Helper",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Text_Communication_Helper/CATopalian_JavaScript_Text_Communication_Helper.html",
@@ -426,6 +431,7 @@ let content = [
     description: "CATopalian_JavaScript_Text_Communication_Helper"
 },
 
+// CATopalian JavaScript Text Editor
 {
     name: "CATopalian JavaScript Text Editor",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Text_Editor/CATopalian_JavaScript_Text_Editor.html",
@@ -434,6 +440,7 @@ let content = [
     description: "CATopalian_JavaScript_Text_Editor"
 },
 
+// CATopalian JavaScript Text Investigator
 {
     name: "CATopalian JavaScript Text Investigator",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Text_Investigator/CATopalian_JavaScript_Text_Investigator.html",
@@ -442,6 +449,7 @@ let content = [
     description: "CATopalian_JavaScript_Text_Investigator"
 },
 
+// CATopalian JavaScript True AI 16 Gates
 {
     name: "CATopalian JavaScript True AI 16 Gates",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_16_Gates/CATopalian_JavaScript_True_AI_16_Gates.html",
@@ -450,6 +458,7 @@ let content = [
     description: "CATopalian_JavaScript_True_AI_16_Gates"
 },
 
+// CATopalian JavaScript True AI
 {
     name: "CATopalian JavaScript True AI",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI/CATopalian_JavaScript_True_AI.html",
@@ -458,6 +467,7 @@ let content = [
     description: "CATopalian_JavaScript_True_AI"
 },
 
+// CATopalian JavaScript True AI 16 Gates Number Recognition
 {
     name: "CATopalian JavaScript True AI 16 Gates Number Recognition",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition/CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition.html",
@@ -466,6 +476,7 @@ let content = [
     description: "CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition"
 },
 
+// CATopalian JavaScript True AI 16 Gates Number Recognition 3x3
 {
     name: "CATopalian JavaScript True AI 16 Gates Number Recognition 3x3",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition_3x3/CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition_3x3.html",
@@ -474,6 +485,7 @@ let content = [
     description: "CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition_3x3"
 },
 
+// CATopalian JavaScript Truth Detection
 {
     name: "CATopalian JavaScript Truth Detection",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Truth_Detection/CATopalian_JavaScript_Truth_Detection.html",
@@ -482,6 +494,7 @@ let content = [
     description: "CATopalian_JavaScript_Truth_Detection"
 },
 
+// CATopalian JavaScript Video Gallery
 {
     name: "CATopalian JavaScript Video Gallery",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Gallery/CATopalian_JavaScript_Video_Gallery.html",
@@ -491,6 +504,7 @@ let content = [
     description: "CATopalian_JavaScript_Video_Gallery"
 },
 
+// CATopalian JavaScript Video Investigator
 {
     name: "CATopalian JavaScript Video Investigator",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Investigator/CATopalian_JavaScript_Video_Investigator.html",
@@ -499,6 +513,7 @@ let content = [
     description: "CATopalian_JavaScript_Video_Investigator"
 },
 
+// CATopalian JavaScript World Clock
 {
     name: "CATopalian JavaScript World Clock",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_World_Clock/CATopalian_JavaScript_World_Clock.html",
@@ -509,6 +524,7 @@ let content = [
 
 //--//
 
+// JavaScript Computer Science
 {
     name: "JavaScript Computer Science",
     appURL: "https://github.com/ChristopherAndrewTopalian/JavaScript_Computer_Science",
@@ -517,6 +533,7 @@ let content = [
     description: "JavaScript_Computer_Science",
 },
 
+// CATopalian JavaScript Boolean Algebra
 {
     name: "CATopalian JavaScript Boolean Algebra",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Boolean_Algebra",
@@ -525,6 +542,7 @@ let content = [
     description: "CATopalian_JavaScript_Boolean_Algebra"
 },
 
+// CATopalian JavaScript NW.js
 {
     name: "CATopalian JavaScript NW.js",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js",
@@ -533,6 +551,7 @@ let content = [
     description: "CATopalian_JavaScript_NW.js"
 },
 
+// CATopalian JavaScript NW.js ourFirstApp
 {
     name: "CATopalian JavaScript NW.js ourFirstApp",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_ourFirstApp",
@@ -541,6 +560,7 @@ let content = [
     description: "CATopalian_JavaScript_NW.js_ourFirstApp"
 },
 
+// CATopalian JavaScript NW.js System Info and File System
 {
     name: "CATopalian JavaScript NW.js System Info and File System",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_System_Info_and_File_System",
@@ -549,6 +569,7 @@ let content = [
     description: "CATopalian_JavaScript_NW.js_System_Info_and_File_System"
 },
 
+// CATopalian JavaScript NW.js Journal
 {
     name: "CATopalian JavaScript NW.js Journal",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Journal",
@@ -557,6 +578,7 @@ let content = [
     description: "CATopalian_JavaScript_NW.js_Journal"
 },
 
+// CATopalian JavaScript NW.js Learning Center
 {
     name: "CATopalian JavaScript NW.js Learning Center",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Learning_Center",
@@ -565,6 +587,7 @@ let content = [
     description: "CATopalian_JavaScript_NW.js_Learning_Center"
 },
 
+// CATopalian JavaScript NW.js Screenshot
 {
     name: "CATopalian JavaScript NW.js Screenshot",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Screenshot",
@@ -573,6 +596,7 @@ let content = [
     description: "CATopalian_JavaScript_NW.js_Screenshot"
 },
 
+// CATopalian Python Library
 {
     name: "CATopalian Python Library",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library",
@@ -581,6 +605,7 @@ let content = [
     description: "CATopalian_Python_Library"
 },
 
+// CATopalian Python Computer Science
 {
     name: "CATopalian Python Computer Science",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Computer_Science",
@@ -589,6 +614,7 @@ let content = [
     description: "CATopalian_Python_Computer_Science"
 },
 
+// CATopalian Python PySide6 Counter
 {
     name: "CATopalian Python PySide6 Counter",
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_Python_PySide6_Counter",
@@ -597,6 +623,7 @@ let content = [
     description: "CATopalian_Python_PySide6_Counter"
 },
 
+// Github ChristopherTopalian
 {
     name: "ChristopherTopalian",
     appURL: "https://github.com/ChristopherTopalian",
@@ -605,6 +632,7 @@ let content = [
     description: "ChristopherTopalian"
 },
 
+// Github ChristopherAndrewTopalian
 {
     name: "ChristopherAndrewTopalian",
     appURL: "https://github.com/ChristopherAndrewTopalian",
@@ -613,6 +641,7 @@ let content = [
     description: "ChristopherAndrewTopalian"
 },
 
+// CollegeOfScripting - google
 {
     name: "CollegeOfScripting",
     appURL: "https://sites.google.com/view/CollegeOfScripting",
@@ -621,6 +650,7 @@ let content = [
     description: "CollegeOfScripting"
 },
 
+// ScriptingCollege Youtube
 {
     name: "ScriptingCollege",
     appURL: "https://www.youtube.com/ScriptingCollege",
@@ -629,6 +659,7 @@ let content = [
     description: "ScriptingCollege"
 },
 
+// @CollegeOfScripting Youtube
 {
     name: "@CollegeOfScripting",
     appURL: "https://www.youtube.com/@CollegeOfScripting",
@@ -637,6 +668,7 @@ let content = [
     description: "@CollegeOfScripting"
 },
 
+// CollegeOfScript Twitter
 {
     name: "CollegeOfScript",
     appURL: "https://www.x.com/CollegeOfScript",
