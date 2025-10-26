@@ -5,6 +5,15 @@
 // Open Objects = Ctrl + K  Ctrl + J
 
 let content = [
+// CATopalian JavaScript Guitar
+{
+    name: "CATopalian JavaScript Guitar",
+    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Guitar/CATopalian_JavaScript_Guitar.html",
+    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Guitar',
+    videoURL: 'https://www.youtube.com/watch?v=wnMWfRLsSFM',
+    description: "CATopalian_JavaScript_Guitar"
+},
+
 // CATopalian_Game_Engine
 {
     name: 'CATopalian_Game_Engine',
@@ -22,6 +31,34 @@ let content = [
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_Game_Engine_Data_Navigator',
     appURL: 'https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigator/CATopalian_Game_Engine_Data_Navigator.html',
     videoURL: 'https://www.youtube.com/watch?v=tsyJYv9Mx74'
+},
+
+// CATopalian JavaScript Comic Book Creator
+{
+    name: "CATopalian JavaScript Comic Book Creator",
+    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Comic_Book_Creator/CATopalian_JavaScript_Comic_Book_Creator.html",
+    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Comic_Book_Creator',
+    videoURL: 'https://www.youtube.com/watch?v=aswd3T2nVdU',
+    description: "CATopalian_JavaScript_Comic_Book_Creator"
+},
+
+// CATopalian JavaScript Genetics Navigator
+{
+    name: "CATopalian JavaScript Genetics Navigator",
+    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Genetics_Navigator/CATopalian_JavaScript_Genetics_Navigator.html",
+    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Genetics_Navigator',
+    videoURL: 'https://www.youtube.com/watch?v=MwZH8slqW8Q',
+    textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Genetics_Navigator.PNG',
+    description: "CATopalian_JavaScript_Genetics_Navigator"
+},
+
+// CATopalian JavaScript Graphics Editor
+{
+    name: "CATopalian JavaScript Graphics Editor",
+    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graphics_Editor/CATopalian_JavaScript_Graphics_Editor.html",
+    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Graphics_Editor',
+    textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Graphics_Editor.PNG',
+    description: "CATopalian_JavaScript_Graphics_Editor"
 },
 
 // CATopalian JavaScript Calculation Engine
@@ -151,6 +188,7 @@ let content = [
     description: "CATopalian_JavaScript_Clock_with_Moving_Seconds"
 },
 
+// CATopalian JavaScript Clock
 {
     name: "CATopalian JavaScript Clock",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Clock/CATopalian_JavaScript_Clock.html",
@@ -159,6 +197,7 @@ let content = [
     description: "CATopalian_JavaScript_Clock"
 },
 
+// CATopalian JavaScript Code Editor
 {
     name: "CATopalian JavaScript Code Editor",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Code_Editor/CATopalian_JavaScript_Code_Editor.html",
@@ -167,14 +206,7 @@ let content = [
     description: "CATopalian_JavaScript_Code_Editor"
 },
 
-{
-    name: "CATopalian JavaScript Comic Book Creator",
-    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Comic_Book_Creator/CATopalian_JavaScript_Comic_Book_Creator.html",
-    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Comic_Book_Creator',
-    videoURL: 'https://www.youtube.com/watch?v=aswd3T2nVdU',
-    description: "CATopalian_JavaScript_Comic_Book_Creator"
-},
-
+// CATopalian JavaScript Data Navigator
 {
     name: "CATopalian JavaScript Data Navigator",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Data_Navigator/CATopalian_JavaScript_Data_Navigator.html",
@@ -183,6 +215,7 @@ let content = [
     description: "CATopalian_JavaScript_Data_Navigator"
 },
 
+// CATopalian JavaScript Earth
 {
     name: "CATopalian JavaScript Earth",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth/CATopalian_JavaScript_Earth.html",
@@ -191,6 +224,7 @@ let content = [
     description: "CATopalian_JavaScript_Earth"
 },
 
+// CATopalian JavaScript Earth Canvas
 {
     name: "CATopalian JavaScript Earth Canvas",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth_Canvas/CATopalian_JavaScript_Earth_Canvas.html",
@@ -199,6 +233,7 @@ let content = [
     description: "CATopalian_JavaScript_Earth_Canvas"
 },
 
+// CATopalian JavaScript Earthquake Data Center
 {
     name: "CATopalian JavaScript Earthquake Data Center",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earthquake_Data_Center/CATopalian_JavaScript_Earthquake_Data_Center.html",
@@ -207,6 +242,7 @@ let content = [
     description: "CATopalian_JavaScript_Earthquake_Data_Center"
 },
 
+// CATopalian JavaScript Filter Functions
 {
     name: "CATopalian JavaScript Filter Functions",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Filter_Functions/CATopalian_JavaScript_Filter_Functions.html",
@@ -215,6 +251,7 @@ let content = [
     description: "CATopalian_JavaScript_Filter_Functions"
 },
 
+// CATopalian JavaScript Frames Per Second
 {
     name: "CATopalian JavaScript Frames Per Second",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Frames_Per_Second/CATopalian_JavaScript_Frames_Per_Second.html",
@@ -223,15 +260,7 @@ let content = [
     description: "CATopalian_JavaScript_Frames_Per_Second"
 },
 
-{
-    name: "CATopalian JavaScript Genetics Navigator",
-    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Genetics_Navigator/CATopalian_JavaScript_Genetics_Navigator.html",
-    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Genetics_Navigator',
-    videoURL: 'https://www.youtube.com/watch?v=MwZH8slqW8Q',
-    textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Genetics_Navigator.PNG',
-    description: "CATopalian_JavaScript_Genetics_Navigator"
-},
-
+// CATopalian JavaScript Graph
 {
     name: "CATopalian JavaScript Graph",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graph/CATopalian_JavaScript_Graph.html",
@@ -240,14 +269,7 @@ let content = [
     description: "CATopalian_JavaScript_Graph"
 },
 
-{
-    name: "CATopalian JavaScript Graphics Editor",
-    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graphics_Editor/CATopalian_JavaScript_Graphics_Editor.html",
-    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Graphics_Editor',
-    textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Graphics_Editor.PNG',
-    description: "CATopalian_JavaScript_Graphics_Editor"
-},
-
+// CATopalian JavaScript Grid Interface
 {
     name: "CATopalian JavaScript Grid Interface",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Grid_Interface/CATopalian_JavaScript_Grid_Interface.html",
@@ -256,14 +278,7 @@ let content = [
     description: "CATopalian_JavaScript_Grid_Interface"
 },
 
-{
-    name: "CATopalian JavaScript Guitar",
-    appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Guitar/CATopalian_JavaScript_Guitar.html",
-    codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Guitar',
-    videoURL: 'https://www.youtube.com/watch?v=wnMWfRLsSFM',
-    description: "CATopalian_JavaScript_Guitar"
-},
-
+// CATopalian JavaScript Identity Generator
 {
     name: "CATopalian JavaScript Identity Generator",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Identity_Generator/CATopalian_JavaScript_Identity_Generator.html",
