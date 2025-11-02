@@ -55,7 +55,7 @@ let content = [
     videoURL: 'https://www.youtube.com/watch?v=tsyJYv9Mx74'
 },
 
-// CATopalian JavaScript Calculation Engine
+// * CATopalian JavaScript Calculation Engine
 {
     name: "CATopalian JavaScript Calculation Engine",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Calculation_Engine/CATopalian_JavaScript_Calculation_Engine.html",
@@ -94,7 +94,7 @@ let content = [
     videoURL: 'https://www.youtube.com/watch?v=uS9HeW1YxZg'
 },
 
-// CATopalian JavaScript Saving Feral Felines
+// * CATopalian JavaScript Saving Feral Felines
 {
     name: "CATopalian JavaScript Saving Feral Felines",
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Saving_Feral_Felines/CATopalian_JavaScript_Saving_Feral_Felines.html",
