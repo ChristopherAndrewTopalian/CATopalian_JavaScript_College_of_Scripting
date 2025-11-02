@@ -47,7 +47,7 @@ let content = [
     description: 'JavaScript Game Engine featuring a pure functional data driven object oriented design.',
     appURL: 'https://christopherandrewtopalian.github.io/CATopalian_Game_Engine/CATopalian_Game_Engine.html',
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_Game_Engine',
-    //videoURL: 'https://www.youtube.com/watch?v=LkMl75oG2RM',
+    videoURL: 'https://www.youtube.com/watch?v=LkMl75oG2RM',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Game_Engine.PNG'
 },
 
@@ -58,7 +58,7 @@ let content = [
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_Game_Engine_Data_Navigator',
     appURL: 'https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigator/CATopalian_Game_Engine_Data_Navigator.html',
     textureOffline: 'src/media/textures/screenshots/CATopalian_Game_Engine_Data_Navigator.PNG',
-    //videoURL: 'https://www.youtube.com/watch?v=tsyJYv9Mx74'
+    videoURL: 'https://www.youtube.com/watch?v=tsyJYv9Mx74'
 },
 
 // CATopalian JavaScript Calculation Engine
@@ -77,7 +77,7 @@ let content = [
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Markdown_to_HTML_Editor',
     description: "Users can Type or Load Markdown formatted text into a textarea and this app converts it to HTML in the other textarea.",
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Markdown_to_HTML_Editor.PNG',
-    // videoURL: 'https://www.youtube.com/watch?v=JmkKWgdGg9M'
+    videoURL: 'https://www.youtube.com/watch?v=JmkKWgdGg9M'
 },
 
 // CATopalian JavaScript File Navigator
@@ -87,7 +87,7 @@ let content = [
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_File_Navigator',
     description: "CATopalian_JavaScript_File_Navigator",
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_File_Navigator.PNG',
-    //videoURL: 'https://www.youtube.com/watch?v=wlvtbbXEvXM'
+    videoURL: 'https://www.youtube.com/watch?v=wlvtbbXEvXM'
 },
 
 // CATopalian JavaScript Art Studio
@@ -97,7 +97,7 @@ let content = [
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Art_Studio',
     description: "CATopalian_JavaScript_Art_Studio",
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Art_Studio.PNG',
-    //videoURL: 'https://www.youtube.com/watch?v=uS9HeW1YxZg'
+    videoURL: 'https://www.youtube.com/watch?v=uS9HeW1YxZg'
 },
 
 // CATopalian JavaScript Saving Feral Felines
