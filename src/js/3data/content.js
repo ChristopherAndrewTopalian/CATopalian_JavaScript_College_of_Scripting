@@ -115,7 +115,7 @@ let content = [
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Studio/CATopalian_JavaScript_Character_Studio.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Character_Studio',
     description: "CATopalian_JavaScript_Character_Studio",
-    // videoURL: 'https://www.youtube.com/watch?v=M3kGdxYry1E',
+    videoURL: 'https://www.youtube.com/watch?v=M3kGdxYry1E',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Character_Studio.PNG'
 },
 
@@ -143,7 +143,7 @@ let content = [
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_3D_Editor/CATopalian_JavaScript_3D_Editor.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_3D_Editor',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_3D_Editor.PNG',
-    // videoURL: 'https://www.youtube.com/watch?v=iqjjMmaAqMQ',
+    videoURL: 'https://www.youtube.com/watch?v=iqjjMmaAqMQ',
     description: "CATopalian_JavaScript_3D_Editor"
 },
 
@@ -217,7 +217,7 @@ let content = [
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Comic_Book_Creator/CATopalian_JavaScript_Comic_Book_Creator.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Comic_Book_Creator',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Comic_Book_Creator.PNG',
-    //videoURL: 'https://www.youtube.com/watch?v=aswd3T2nVdU',
+    videoURL: 'https://www.youtube.com/watch?v=aswd3T2nVdU',
     description: "CATopalian_JavaScript_Comic_Book_Creator"
 },
 
@@ -227,7 +227,7 @@ let content = [
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Data_Navigator/CATopalian_JavaScript_Data_Navigator.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Data_Navigator',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Data_Navigator.PNG',
-    //videoURL: 'https://www.youtube.com/watch?v=uXEsq9KYjXA',
+    videoURL: 'https://www.youtube.com/watch?v=uXEsq9KYjXA',
     description: "CATopalian_JavaScript_Data_Navigator"
 },
 
@@ -355,7 +355,7 @@ let content = [
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Math_Generator/CATopalian_JavaScript_Math_Generator.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Math_Generator',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Math_Generator.PNG',
-    //videoURL: 'https://www.youtube.com/watch?v=Az30vLbG-Co',
+    videoURL: 'https://www.youtube.com/watch?v=Az30vLbG-Co',
     description: "CATopalian_JavaScript_Math_Generator"
 },
 
@@ -455,7 +455,7 @@ let content = [
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Text_Communication_Helper/CATopalian_JavaScript_Text_Communication_Helper.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Text_Communication_Helper',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Text_Communication_Helper.PNG',
-    //videoURL: 'https://www.youtube.com/watch?v=AO7Tt8xDmSA',
+    videoURL: 'https://www.youtube.com/watch?v=AO7Tt8xDmSA',
     description: "CATopalian_JavaScript_Text_Communication_Helper"
 },
 
@@ -547,7 +547,7 @@ let content = [
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_World_Clock/CATopalian_JavaScript_World_Clock.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_World_Clock',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_World_Clock.PNG',
-    //videoURL: 'https://www.youtube.com/watch?v=NGan3hT_0-g',
+    videoURL: 'https://www.youtube.com/watch?v=NGan3hT_0-g',
     description: "CATopalian_JavaScript_World_Clock"
 },
 
@@ -622,7 +622,7 @@ let content = [
     appURL: "https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Screenshot",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Screenshot',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_NW.PNG',
-    //videoURL: 'https://www.youtube.com/watch?v=OlEfX3MmYNw',
+    videoURL: 'https://www.youtube.com/watch?v=OlEfX3MmYNw',
     description: "CATopalian_JavaScript_NW.js_Screenshot"
 },
 
@@ -659,7 +659,7 @@ let content = [
     appURL: 'https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Text_Navigator/CATopalian_JavaScript_Text_Navigator.html',
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Text_Navigator',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Text_Navigator.PNG',
-    //videoURL: https: 'www.youtube.com/watch?v=c0sc3ZmoBVs'
+    videoURL: 'https://www.youtube.com/watch?v=c0sc3ZmoBVs'
 },
 
 // CATopalian JavaScript NW.js Markdown Navigator
@@ -672,7 +672,7 @@ let content = [
 
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_NW.js_Markdown_Navigator.PNG',
 
-    //videoURL: 'https://www.youtube.com/watch?v=5lbBFD2ouBA'
+    videoURL: 'https://www.youtube.com/watch?v=5lbBFD2ouBA'
 },
 
 // CATopalian JavaScript College of Scripting - Scroll Version
@@ -683,7 +683,7 @@ let content = [
     appURL: 'https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting/CATopalian_JavaScript_College_of_Scripting.html',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_College_of_Scripting_001.PNG',
 
-    //videoURL: 'https://www.youtube.com/watch?v=_wRvEQcMky0', 
+    videoURL: 'https://www.youtube.com/watch?v=_wRvEQcMky0', 
 
     description: "CATopalian_JavaScript_College_of_Scripting"
 },
