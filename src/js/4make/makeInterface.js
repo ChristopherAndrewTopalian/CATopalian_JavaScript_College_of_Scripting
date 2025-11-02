@@ -72,7 +72,9 @@ function makeInterface(whichArray)
         let embedUrl;
 
         let theUrl;
-        
+
+        // The embed code for Youtube was removed because Youtube is corrupted and causes massive lag issues.
+        /*
         if (whichArray[x].videoURL)
         {
             theUrl = whichArray[x].videoURL;
@@ -82,10 +84,14 @@ function makeInterface(whichArray)
             // add the youtube embed part
             embedUrl = "https://www.youtube.com/embed/" + splitUrl;
         }
+
         else
         {
             theUrl = whichArray[x].textureOffline;
         }
+        */
+
+        theUrl = whichArray[x].textureOffline;
 
         // make halfContainer
         let halfContainer = ce('div');
@@ -109,7 +115,8 @@ function makeInterface(whichArray)
 
         //-//
 
-        if (whichArray[x].videoURL)
+        //if (whichArray[x].videoURL)
+        if (online == true)
         {
             let theIframe = ce("iframe");
             theIframe.src = embedUrl;

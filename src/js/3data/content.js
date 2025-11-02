@@ -17,7 +17,7 @@ let content = [
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_BabylonJS_College_of_Scripting/CATopalian_JavaScript_BabylonJS_College_of_Scripting/CATopalian_JavaScript_BabylonJS_College_of_Scripting.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_BabylonJS_College_of_Scripting',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_BabyonJS_College_of_Scripting_001.PNG',
-    // videoURL: '',
+    videoURL: 'https://www.youtube.com/watch?v=oS_YV_Q3mfI',
     description: "The 3D College of Scripting Music & Science"
 },
 
@@ -27,7 +27,7 @@ let content = [
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Guitar/CATopalian_JavaScript_Guitar.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Guitar',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Guitar.PNG',
-    // videoURL: 'https://www.youtube.com/watch?v=wnMWfRLsSFM',
+    videoURL: 'https://www.youtube.com/watch?v=wnMWfRLsSFM',
     description: "CATopalian_JavaScript_Guitar"
 },
 
@@ -37,6 +37,7 @@ let content = [
     appURL: "https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Piano/CATopalian_JavaScript_Piano.html",
     codeURL: 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Piano',
     textureOffline: 'src/media/textures/screenshots/CATopalian_JavaScript_Piano.PNG',
+    videoURL: 'https://www.youtube.com/watch?v=HHFOHwQNcW8',
     description: "CATopalian_JavaScript_Piano"
 },
 
