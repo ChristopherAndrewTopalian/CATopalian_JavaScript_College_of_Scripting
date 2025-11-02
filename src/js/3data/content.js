@@ -4,12 +4,6 @@
 // Close Objects = Ctrl + K  Ctrl + 0
 // Open Objects = Ctrl + K  Ctrl + J
 
-// content.js
-
-// VSCode Shortcuts
-// Close Objects = Ctrl + K  Ctrl + 0
-// Open Objects = Ctrl + K  Ctrl + J
-
 let content = [
 // CATopalian JavaScript BabylonJS College of Scripting
 {
